@@ -4,13 +4,13 @@
   "COP": null,
   "OXY": null,
   "FANG": null,
-  "HAL": "down",
-  "SLB": "up",
+  "HAL": null,
+  "SLB": null,
   "EQT": null,
   "LNG": null,
-  "LMT": "up",
-  "NOC": "up",
-  "RTX": "up",
-  "GD": "up",
-  "LHX": "up"
+  "LMT": null,
+  "NOC": null,
+  "RTX": null,
+  "GD": null,
+  "LHX": null
 }
